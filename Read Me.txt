@@ -1,0 +1,41 @@
+Welcome to Funky Chess
+This is a Rule Free Chess Application with built in Chess Game, Player Stats and Game stats viewer.
+Aswell as this it also Contains a probability calculator which is a good place to start. 
+Many of the possible problems you can have with the application are already taken care of for you
+Items are error checked and everything is easy if you read the instructions given to you on that J Frame
+You can always return to the home screen using the exit button
+Please make sure that you have the correct Database and have my sql service enabled on your machine
+Faster Machines will make the chess program smoother
+A connection to the internet is not required however a connection to the database is
+
+
+
+Probability Calculator
+Enter Player 1's chess IDE rating
+Enter Player 2's chess IDE rating
+Press calculate and the probability will be displayed in the text box
+
+Review Games
+Chose you preffered Option then press either:
+Game Stats between to see the game stats between two players
+Search Game to view all the moves in a game
+
+Player Stats
+Choose your preffered player Then click either
+Show Player Info
+Or choose whether to add or set Player Win Loss draw 
+to the values below, The program will check that you have entered the data in the correct format
+Once inputted and chosen your option click update player to update the player
+
+Add or Delete Player
+If Delete player Clicked then the player in the JCombo Box will be deleted
+If Add Player is clicked then the program will build a player out of the 
+data underneath. The inputted data is error check to make sure it is in the right format
+and if the data is in the wrong format it will let you know what the error is
+
+Play Game
+This will first take you to a screen where you must choose which players are playing
+Two separate Player Must be chosen
+From here a game Board is opened. The piece selected is shown on the right and other
+than turns and not being able to take your own pieces the floor is yours to play chess
+The Game ends when the King is taken
